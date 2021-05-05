@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/364479796.svg)](https://zenodo.org/badge/latestdoi/364479796)
+
 # Phenolopy
 
 ## Introduction
