@@ -1,0 +1,19 @@
+{
+    "description": "Python-based extractor of vegetation metrics from satellite-based vegetation time-series imagery.",
+    "license": "other-open",
+    "title": "frontiersi/phenolopy v1.0",
+    "version": "v1.0",
+    "upload_type": "software",
+    "publication_date": "2021-05-05",
+    "creators": [
+        {
+            "affiliation": "Curtin University",
+            "name": "Lewis Trotter"
+        },
+        {
+            "affiliation": "Curtin University",
+            "name": "Todd Robinson"
+        }
+    ],
+    "access_right": "open"
+}
